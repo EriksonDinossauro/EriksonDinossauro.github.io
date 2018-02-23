@@ -46,7 +46,8 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
 [Jose Luiz](https://jldifrn.github.io/)
 
 [Elielton](https://elielton90.github.io/)
-* * *  
+* * * 
+## Contato
 **negrito  
 _ itálico  
 ~~ riscado  

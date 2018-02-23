@@ -29,7 +29,11 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
 
 ![](chefe.png)
 
-![](20180118_165105[1].jpg)
+![]()
+
+![]()
+
+![]()
 
 * * *  
 ## Projeto  

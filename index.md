@@ -8,7 +8,7 @@ layout: default
 Text can be **minha**, _pagina_, or ~~principal~~.
 # Quem sou eu!?
 Aluno de Programação de Jogos Digitais, Eikson Pedro.
-![](166240.jpg)
+![](20180118_231632[1].jpg)
 * * * 
 # Portifólio 
 

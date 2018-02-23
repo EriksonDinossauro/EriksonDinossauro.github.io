@@ -39,7 +39,9 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
 ## Projetos  
 * Protótipo de controle de acesso via identificação por rádio frequência com base na plataforma arduino
  
-
+***
+## Parceiros
+[Victor](victor-mesmo.github.io
 * * *  
 **negrito  
 _ itálico  

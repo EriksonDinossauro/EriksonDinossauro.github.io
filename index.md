@@ -2,10 +2,9 @@
 
 # eriksonnicacio.github.io
  ---
-layout: default
+
 ---
 
-Text can be **minha**, _pagina_, or ~~principal~~.
 # Quem sou eu!?
 Aluno de Programação de Jogos Digitais, Eikson Pedro.
 ![](20180130_154904[1].jpg)

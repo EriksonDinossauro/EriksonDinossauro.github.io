@@ -49,7 +49,7 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
 * * * 
 ## Contato
 ![](Whatsapp_37229.png) - 994933202
-
+![](Gmail_29991.png) - eriksonperdo65ma@gmail.com
 **negrito  
 _ itálico  
 ~~ riscado  

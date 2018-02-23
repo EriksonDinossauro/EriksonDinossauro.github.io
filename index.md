@@ -48,6 +48,8 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
 [Elielton](https://elielton90.github.io/)
 * * * 
 ## Contato
+![](Whatsapp_37229.png) - 994933202
+
 **negrito  
 _ itálico  
 ~~ riscado  

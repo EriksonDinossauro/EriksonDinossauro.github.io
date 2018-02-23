@@ -54,10 +54,3 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
 ***
 
 
-**negrito  
-_ itálico  
-~~ riscado  
-
-#s uma ou mais" # " criam capitulos e subcap
-
-* * *  

@@ -25,7 +25,7 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
 [Pyramid Escape](https://jldifrn.github.io/PyramidEscape/)  
 * * *  
 ## Artes 
-![](personagem2.png)              ![](bisonho_parado.png)
+![](personagem2.png)              ![](bisonho_parado.png)          ![](predador-sheet0[1].png)
 
 ![](chefe.png)
 

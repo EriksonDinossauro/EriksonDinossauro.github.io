@@ -29,7 +29,7 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
 
 ![](bisonho_parado.png)
 
-![](bisonho_parado.png)
+![](chefe.png)
 
 * * *  
 ## Projeto  

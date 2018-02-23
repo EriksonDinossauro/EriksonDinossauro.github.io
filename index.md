@@ -42,6 +42,7 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
 ***
 ## Parceiros
 [Victor](https://victor-mesmo.github.io/)
+[Jose Luiz](https://jldifrn.github.io/)
 * * *  
 **negrito  
 _ itálico  

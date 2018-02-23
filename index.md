@@ -41,7 +41,7 @@ Aluno de Programação de Jogos Digitais, Eikson Pedro.
  
 ***
 ## Parceiros
-[Victor](victor-mesmo.github.io)
+[Victor](https://victor-mesmo.github.io/)
 * * *  
 **negrito  
 _ itálico  
